@@ -14,3 +14,15 @@
 * Developed & deployed Android "Hello World" App
 * Home Assignment
   - Create envoironment and develop Hello World Android App
+
+========================================
+
+###Class 2014-11-09
+
+* Revision of Creating Android Project using Cordova
+* Revision of Configuration of Android Project in Android Studio
+* Studied Project Structured, App Icons, App Name & other details of android project
+* Covered Cordova Events ( i.e deviceready, pause & resume etc )
+* Home Assignment
+  - Develop Student Management Android App in which user can add student, delete student, edit student, view student list, view student detail
+  - Study and implementation of Other Phonegap Events
