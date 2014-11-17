@@ -26,3 +26,12 @@
 * Home Assignment
   - Develop Student Management Android App in which user can add student, delete student, edit student, view student list, view student detail
   - Study and implementation of Other Phonegap Events
+
+========================================
+
+###Class 2014-11-16
+
+* Phonegap Plugins Installation & Usage ( i.e SplashScreen, Device, Network-Information, Battery-Status, Camera, Geolocation  )
+* Home Assignment ( Extend Student Management System )
+  - Implement add student photo option, delete photo option & edit photo option in Student Management Android App
+  - Implement Geolocation & Device Plugin to save user location and user device information.
