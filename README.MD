@@ -35,3 +35,12 @@
 * Home Assignment ( Extend Student Management System )
   - Implement add student photo option, delete photo option & edit photo option in Student Management Android App
   - Implement Geolocation & Device Plugin to save user location and user device information.
+  
+========================================
+
+###Class 2014-11-23
+
+* Phonegap Third Party Plugins Installation, Deletion & Usage ( i.e Local Notification, Toast Messages )
+* Project Creation and Deployment for IOS, WP8 & Windows 8 Metro Apps 
+* Home Assignment ( Extend Student Management System )
+  - Implement Third Party Plugin in Student Management Android App
