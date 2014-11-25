@@ -1,0 +1,15 @@
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\Debug\AnyCPU\resources.pri
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\Debug\AnyCPU\AppxManifest.xml
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\Debug\AnyCPU\CordovaApp.Windows80.build.appxrecipe
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\priconfig.xml
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\priconfig.xml.intermediate
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\layout.resfiles
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\layout.resfiles.intermediate
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\resources.resfiles
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\resources.resfiles.intermediate
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\pri.resfiles
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\pri.resfiles.intermediate
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\qualifiers.txt
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\qualifiers.txt.intermediate
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\MultipleQualifiersPerDimensionFound.txt
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\windows\build\windows80\bld\ProjectArchitectures.txt

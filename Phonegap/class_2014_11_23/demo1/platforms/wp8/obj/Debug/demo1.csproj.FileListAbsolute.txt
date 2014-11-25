@@ -1,0 +1,14 @@
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\Bin\Debug\ApplicationIcon.png
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\Bin\Debug\Background.png
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\Bin\Debug\com.ru.demo1.dll
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\Bin\Debug\com.ru.demo1.pdb
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\Bin\Debug\AppManifest.xaml
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\obj\Debug\App.g.cs
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\obj\Debug\MainPage.g.cs
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\obj\Debug\com.ru.demo1.g.resources
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\obj\Debug\com.ru.demo1.dll
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\obj\Debug\com.ru.demo1.pdb
+F:\OB\SSUET\201-2014\Class\Phonegap\class_2014_11_23\demo1\platforms\wp8\obj\Debug\XapCacheFile.xml

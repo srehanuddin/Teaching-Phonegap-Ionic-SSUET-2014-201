@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="msapplication-tap-highlight" content="no" />
+        <!-- WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div class="app">
+            <h1>Apache Cordova</h1>
+            <div id="deviceready" class="blink">
+                <h1>Hello World</h1>
+            </div>
+
+            <button onclick="window.plugins.toast.showShortTop('Hello there!', function(a){console.log('toast success: ' + a)}, function(b){alert('toast error: ' + b)})">Toast showShortTop</button>
+            <button onclick="window.plugins.toast.showLongBottom('Hello there!', function(a){console.log('toast success: ' + a)}, function(b){alert('toast error: ' + b)})">Toast showLongBottom</button>
+            <button onclick="window.plugins.toast.show('Hello there!', 'long', 'center', function(a){console.log('toast success: ' + a)}, function(b){alert('toast error: ' + b)})">Toast show long center</button>
+
+            <button id="btn1" onclick="">Toast showLongBottom</button>
+
+        </div>
+        <script type="text/javascript" src="cordova.js"></script>
+        <script>
+            document.addEventListener('deviceready', function () {
+
+                alert(window.plugins);
+                alert(window.plugins.toast);
+                alert(window.plugins.toast);
+                alert(window.plugins.toast.showLongBottom);
+                //document.getElementById('btn1');
+                btn1.addEventListener('click' , function(){
+
+                    window.plugins.toast.showLongBottom('Hello there!', function(a){
+                        alert('toast success: ' + a)
+                    }, function(b){
+                        alert('toast error: ' + b)
+                    });
+
+                }, false);
+
+/*
+                alert("deviceready");
+                alert(window.plugin);
+                alert(window.plugin.notification);
+                alert(window.plugin.notification.local);
+                alert(window.plugin.notification.local.add);
+                window.plugin.notification.local.add({
+                    id:         Date.now() + "-",  // A unique id of the notifiction
+                    date:       new Date(),    // This expects a date object
+                    message:    "Test Msg",  // The message that is displayed
+                    title:      "Test",  // The title of the message
+                    badge:      1,  // Displays number badge to notification
+                });
+
+                */
+
+            }, false);
+        </script>
+    </body>
+</html>
