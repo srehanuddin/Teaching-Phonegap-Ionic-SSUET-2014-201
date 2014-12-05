@@ -44,3 +44,13 @@
 * Project Creation and Deployment for IOS, WP8 & Windows 8 Metro Apps 
 * Home Assignment ( Extend Student Management System )
   - Implement Third Party Plugin in Student Management Android App
+  
+========================================
+
+###Class 2014-11-30
+
+* Ionic Installation & Configuration
+* Ionic Project Creation
+* Ionic UI/CSS Implement  
+* Home Assignment
+  - Convert Student App to Ionic
