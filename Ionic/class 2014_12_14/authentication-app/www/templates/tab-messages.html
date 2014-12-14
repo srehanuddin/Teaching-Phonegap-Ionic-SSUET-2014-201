@@ -1,0 +1,18 @@
+<ion-view title="Messages">
+    <ion-content has-header="true" padding="true" >
+        <div class="list card">
+            <div class="item item-divider">
+                Messages
+            </div>
+            <div ng-repeat="msg in messages" class="item item-text-wrap">
+                {{msg.user}} : <br>
+                {{msg.text}}
+            </div>
+
+            <button ng-click="sendMessage('Message1')">Send1</button>
+            <button ng-click="sendMessage('Message2')">Send2</button>
+            <button ng-click="sendMessage('Message3')">Send3</button>
+            <button ng-click="sendMessage('Message4')">Send4</button>
+        </div>
+    </ion-content>
+</ion-view>
