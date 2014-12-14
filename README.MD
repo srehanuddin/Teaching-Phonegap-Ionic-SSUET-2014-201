@@ -54,3 +54,17 @@
 * Ionic UI/CSS Implement  
 * Home Assignment
   - Convert Student App to Ionic
+
+========================================
+
+###Class 2014-12-07
+
+* Starting Study from Ionic Book
+
+========================================
+
+###Class 2014-12-14
+
+* Ionic + Firebase Authentication App & Chatting Development
+* Home Assignment
+  - Complete Authentication and Chat App
