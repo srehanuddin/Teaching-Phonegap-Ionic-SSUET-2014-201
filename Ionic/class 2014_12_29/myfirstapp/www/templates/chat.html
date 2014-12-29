@@ -1,0 +1,20 @@
+<div class="list">
+
+    <div class="item item-input-inset">
+        <label class="item-input-wrapper">
+            <input type="text" ng-model="message.text" placeholder="Message">
+        </label>
+        <button ng-click="msgSend()" class="button button-small">
+            Send
+        </button>
+    </div>
+
+    <a class="item" href="#" ng-repeat="m in messages">
+        <h2>{{m.user}}</h2>
+        <p>{{m.text}}</p>
+        <button ng-click="update($index)" class="button button-small">
+            Send
+        </button>
+    </a>
+
+</div>
